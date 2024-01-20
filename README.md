@@ -58,7 +58,7 @@ Ayooooo! 🐶 I'm Erick, a computer science student at UNAM (Universidad Naciona
 <br/>
 <br/>
 
-<div align="center">Feel free to explore my repositories and join me on this tech journey! 🚀</div>
+<div align="center"><b>Feel free to explore my repositories and join me on this tech journey! 🚀</b></div>
 
 
 <br/>
