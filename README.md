@@ -1,16 +1,71 @@
-### Hi there 👋
+## Hey 👋, I'm Erick Avila!
 
-<!--
-**ErickAvilaB/ErickAvilaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/ErickAvilaB" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/erickavilab" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### Glad to see you here!
+Ayooooo! 🐶 I'm Erick, a computer science student at UNAM (Universidad Nacional Autónoma de México) with a passion for technology. I'm not just about code – I love diving into the worlds of literature, music, and cinema.
+
+
+<br/>
+
+
+## About Me
+- 🎓 Studying Computer Science at UNAM
+
+
+- 💻 Tech enthusiast with a focus on backend solutions
+
+
+- 🧠 Love exploring the intersection of technology and humanities
+
+
+<br/>
+
+
+## Tech Toolbox
+- 🐍 Python
+
+
+- 🌐 JavaScript / TypeScript
+
+
+- ⚙️ Arduino and Electronics
+
+
+<br/>
+
+
+## Github Stats
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ErickAvilaB&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAvilaB&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<br/>
+<br/>
+
+<div align="center">Feel free to explore my repositories and join me on this tech journey! 🚀</div>
+
+
+<br/>
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ErickAvilaB&&style=flat-square" align="center" />
+</div>
+
+<br />
