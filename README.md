@@ -47,11 +47,11 @@ Ayooooo! 🐶 I'm Erick, a computer science student at UNAM (Universidad Naciona
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ErickAvilaB&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ErickAvilaB&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAvilaB&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAvilaB&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 
@@ -65,7 +65,7 @@ Ayooooo! 🐶 I'm Erick, a computer science student at UNAM (Universidad Naciona
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ErickAvilaB&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ErickAvilaB&&style=flat-square&color=blueviolet" align="center" />
 </div>
 
 <br />
