@@ -1,4 +1,4 @@
-## Hey 👋, I'm Erick Avila!
+## Hi 👋, I'm Erick Avila!
 
 
 <a href="https://github.com/ErickAvilaB" target="_blank">
@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!
-Ayooooo! 🐶 I'm Erick, a computer science student at UNAM (Universidad Nacional Autónoma de México) with a passion for technology. I'm not just about code – I love diving into the worlds of literature, music, and cinema.
+I'm Erick, a computer science student at UNAM (Universidad Nacional Autónoma de México) with a passion for technology. I'm not just about code – I love diving into the worlds of literature, music, and cinema.
 
 
 <br/>
