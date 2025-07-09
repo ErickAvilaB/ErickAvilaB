@@ -2,21 +2,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erickavilab)
 
----
-
 ## Sobre mí
 
 Estudiante de Ciencias de la Computación en la Universidad Nacional Autónoma de México (UNAM), actualmente en el 5° semestre. Apasionado por el desarrollo de software con tres años de experiencia en proyectos personales y académicos. Me interesa el manejo de bases de datos, y la ciberseguridad.
-
----
 
 ## 💻 Tecnologías que utilizo
 
 - **Lenguajes:** Python, JavaScript, TypeScript  
 - **Bases de datos:** SQL (MySQL/PostgreSQL), MongoDB
 - **Herramientas:** Git, GitHub, Linux (Debian)
-
----
 
 ## 🛠️ Habilidades
 
@@ -30,13 +24,9 @@ Estudiante de Ciencias de la Computación en la Universidad Nacional Autónoma d
 - Analisis de datos con Python y SQL
 - Ciberseguridad y pruebas de penetración
 
----
-
 ## 🚀 Proyectos destacados
 
 - 📈 [Wall-e](https://github.com/ErickAvilaB/wall-e): Bot de Telegram que obtiene información sobre acciones de la bolsa de valores.
-
----
 
 ## 📊 Estadísticas de GitHub
 
@@ -50,8 +40,6 @@ Estudiante de Ciencias de la Computación en la Universidad Nacional Autónoma d
 </td>
 </tr>
 </table>
-
----
 
 ## 🤝 ¿Colaboramos?
 
