@@ -1,71 +1,53 @@
-## Hi 👋, I'm Erick Avila!
+## 👋 Hola, soy Erick Avila
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erickavilab)
 
-<a href="https://github.com/ErickAvilaB" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/erickavilab" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+## Sobre mí
 
+Estudiante de Ciencias de la Computación en la Universidad Nacional Autónoma de México (UNAM), actualmente en el 5° semestre. Apasionado por el desarrollo de software con tres años de experiencia en proyectos personales y académicos. Me interesa el manejo de bases de datos, y la ciberseguridad.
 
+## 💻 Tecnologías que utilizo
 
+- **Lenguajes:** Python, JavaScript, TypeScript  
+- **Bases de datos:** SQL (MySQL/PostgreSQL), MongoDB
+- **Herramientas:** Git, GitHub, Linux (Debian)
 
-### Glad to see you here!
-I'm Erick, a computer science student at UNAM (Universidad Nacional Autónoma de México) with a passion for technology. I'm not just about code – I love diving into the worlds of literature, music, and cinema.
+## 🛠️ Habilidades
 
+- Modelado de software y bases de datos
+- Estructuras de datos y algoritmos
+- Patrones de diseño
+- Testing y automatización
 
-<br/>
+## 🌱 Actualmente aprendiendo
 
+- Analisis de datos con Python y SQL
+- Ciberseguridad y pruebas de penetración
 
-## About Me
-- 🎓 Studying Computer Science at UNAM
+## 🚀 Proyectos destacados
 
+- 📈 [Wall-e](https://github.com/ErickAvilaB/wall-e): Bot de Telegram que obtiene información sobre acciones de la bolsa de valores.
 
-- 💻 Tech enthusiast with a focus on backend solutions
+## 📊 Estadísticas de GitHub
 
+<table>
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickAvilaB&theme=dark&show_icons=true&hide_border=true" />
+</td>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAvilaB&theme=dark&layout=compact&hide_border=true" />
+</td>
+</tr>
+</table>
 
-- 🧠 Love exploring the intersection of technology and humanities
+## 🤝 ¿Colaboramos?
 
+Estoy abierto a proyectos, prácticas o colaboraciones que me permitan crecer como desarrollador.  
+Puedes contactarme por [LinkedIn](https://linkedin.com/in/erickavilab) o revisar mis repositorios públicos.
 
-<br/>
+---
 
-
-## Tech Toolbox
-- 🐍 Python
-
-
-- 🌐 JavaScript / TypeScript
-
-
-- ⚙️ Arduino and Electronics
-
-
-<br/>
-
-
-## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ErickAvilaB&theme=dark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAvilaB&theme=dark&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>
-<br/>
-
-<div align="center"><b>Feel free to explore my repositories and join me on this tech journey! 🚀</b></div>
-
-
-<br/>
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ErickAvilaB&&style=flat-square&color=blueviolet" align="center" />
-</div>
-
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErickAvilaB&style=flat-square&color=blueviolet" alt="visitas al perfil" />
+</p>
